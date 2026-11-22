@@ -85,7 +85,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/criterion-0.3.6/src/bencher.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/f5c5b24258739cf3918d4165a17b43c1cddadfc2/chunk-001.nq.gz",
+      "dep": "dep/f5c5b24258739cf3918d4165a17b43c1cddadfc2.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
